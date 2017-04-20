@@ -5,9 +5,9 @@
 - NAME - How does Sinatra handle DELETE and PUT routes?
 - NAME - What are the different HTTP methods?
 
-- NAME - What is an IP address?
-- Brian Wong - What is a port?
 
+- Brian Wong - What is a port?
+- NAME - What is an IP address?
 - NAME - RACK
 - NAME - Why use REST
 - Harini - What do before and after filters do in Sinatra?
@@ -16,6 +16,7 @@
 - NAME - git add -p (and why its awesome!)
 
 ## Thursday: ActiveRecord!
+
 
 - NAME - Complex associational mapping in Active Record (:source, :foreign_key)
 - NAME - Scopes in Active Record
