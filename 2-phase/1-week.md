@@ -38,5 +38,5 @@
 
 ### Git Topics
 - Elaine - git clone vs fork vs branch… why do any of them?
-- NAME - git HEAD
+- Kenn - git HEAD
 - NAME - What is a REFSPEC?
